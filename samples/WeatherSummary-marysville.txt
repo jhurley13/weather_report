@@ -1,0 +1,29 @@
+Current Conditions 2020-05-30 10:23:23
+Temperature: 51.44 °F
+Wind: 4.7 mph from ENE
+Humidity: 93 %
+Description: heavy intensity rain, thunderstorm with rain, mist, 90% cloudy
+Sunrise: 2020-05-30 05:14:19
+Sunset : 2020-05-30 20:58:45
+
+Forecast 2020-05-30 10:23:23
+Wind: 8.3 mph from NW
+Rain: 20.44 mm
+Humidity: 70 %
+Description: heavy intensity rain, 98% cloudy
+
+Conditions at 2020-05-30 07:00:00
+Temperature: 52.05 °F
+Wind: 4.7 mph from SSW
+Humidity: 81 %
+Description: scattered clouds, 40% cloudy
+
+Conditions at 2020-05-30 10:00:00
+Temperature: 51.49 °F
+Wind: 4.7 mph from ENE
+Humidity: 93 %
+Description: thunderstorm with rain, heavy intensity rain, mist, 90% cloudy
+
+Weather station location: (48.05, -122.18)
+Reporting location      : (48.0517637, -122.1770818)
+Reporting location is 0.21 miles from weather station
